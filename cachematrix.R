@@ -2,7 +2,6 @@
 ## functions do
 
 ## Write a short comment describing this function
-
 makeCacheMatrix <- function( m = matrix() ) {
   
   ## Initialize the inverse property
@@ -38,10 +37,9 @@ makeCacheMatrix <- function( m = matrix() ) {
 }
 
 
-## Compute the inverse of the special matrix returned by "makeCacheMatrix"
-
 
 ## Write a short comment describing this function
+
 
 cacheSolve <- function(x, ...) {
   
